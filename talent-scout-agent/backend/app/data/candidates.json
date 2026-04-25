@@ -1,0 +1,2079 @@
+[
+  {
+    "id": "cand_0001",
+    "name": "Carlos Reddy",
+    "headline": "Senior Backend Engineer at Swiggy",
+    "location": "Berlin, Germany",
+    "years_experience": 6,
+    "skills": [
+      "Celery",
+      "Redis",
+      "PostgreSQL",
+      "RabbitMQ",
+      "FastAPI"
+    ],
+    "current_role": "Senior Backend Engineer",
+    "current_company": "Swiggy",
+    "past_companies": [
+      "InMobi",
+      "PhonePe",
+      "Zerodha"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "IIT Bombay",
+    "summary": "Backend engineer with 6 years building scalable distributed systems. Strong in Python ecosystems and cloud-native architectures.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0001",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0001",
+    "open_to_opportunities": false,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0002",
+    "name": "Pooja Williams",
+    "headline": "Senior Backend Engineer at Unacademy",
+    "location": "Berlin, Germany",
+    "years_experience": 5,
+    "skills": [
+      "PostgreSQL",
+      "Celery",
+      "GraphQL",
+      "Elasticsearch",
+      "Microservices",
+      "Kubernetes",
+      "System Design",
+      "AWS",
+      "Redis"
+    ],
+    "current_role": "Senior Backend Engineer",
+    "current_company": "Unacademy",
+    "past_companies": [
+      "Groww",
+      "Stripe"
+    ],
+    "domains": [
+      "saas",
+      "healthcare"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Backend engineer with 5 years building scalable distributed systems. Strong in Python ecosystems and cloud-native architectures.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0002",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0002",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0003",
+    "name": "Charlotte Joshi",
+    "headline": "Senior Backend Engineer at Unacademy",
+    "location": "London, UK",
+    "years_experience": 6,
+    "skills": [
+      "Kubernetes",
+      "Django",
+      "Docker",
+      "RabbitMQ",
+      "REST APIs"
+    ],
+    "current_role": "Senior Backend Engineer",
+    "current_company": "Unacademy",
+    "past_companies": [
+      "Razorpay",
+      "PhonePe"
+    ],
+    "domains": [
+      "fintech"
+    ],
+    "education": "UC Berkeley",
+    "summary": "Backend engineer with 6 years building scalable distributed systems. Strong in Python ecosystems and cloud-native architectures.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0003",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0003",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0004",
+    "name": "Aditya Rodriguez",
+    "headline": "Senior Backend Engineer at Postman",
+    "location": "Remote (India)",
+    "years_experience": 8,
+    "skills": [
+      "Django",
+      "Python",
+      "GraphQL",
+      "PostgreSQL",
+      "Redis",
+      "System Design",
+      "Celery",
+      "REST APIs",
+      "Microservices",
+      "FastAPI"
+    ],
+    "current_role": "Senior Backend Engineer",
+    "current_company": "Postman",
+    "past_companies": [
+      "Cred",
+      "Airbnb"
+    ],
+    "domains": [
+      "e-commerce",
+      "healthcare",
+      "fintech"
+    ],
+    "education": "IIIT Hyderabad",
+    "summary": "Backend engineer with 8 years building scalable distributed systems. Strong in Python ecosystems and cloud-native architectures.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0004",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0004",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0005",
+    "name": "Meera Shah",
+    "headline": "Backend Engineer at Uber",
+    "location": "Austin, TX",
+    "years_experience": 5,
+    "skills": [
+      "PostgreSQL",
+      "Microservices",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "Node.js",
+      "TypeScript",
+      "REST APIs"
+    ],
+    "current_role": "Backend Engineer",
+    "current_company": "Uber",
+    "past_companies": [
+      "Meta",
+      "Zomato"
+    ],
+    "domains": [
+      "edtech"
+    ],
+    "education": "Delhi University",
+    "summary": "Backend developer with 5 years of experience in Node.js/TypeScript. Built APIs powering products with millions of users.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0005",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0005",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0006",
+    "name": "Hiroshi Rao",
+    "headline": "Backend Engineer at Uber",
+    "location": "Hyderabad, India",
+    "years_experience": 3,
+    "skills": [
+      "Express",
+      "MongoDB",
+      "Microservices",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs",
+      "Kafka"
+    ],
+    "current_role": "Backend Engineer",
+    "current_company": "Uber",
+    "past_companies": [
+      "Airbnb",
+      "Google",
+      "Flipkart"
+    ],
+    "domains": [
+      "e-commerce"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Backend developer with 3 years of experience in Node.js/TypeScript. Built APIs powering products with millions of users.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0006",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0006",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0007",
+    "name": "Aditya Khan",
+    "headline": "Backend Engineer at Shopify",
+    "location": "New York, NY",
+    "years_experience": 2,
+    "skills": [
+      "AWS",
+      "Kafka",
+      "REST APIs",
+      "PostgreSQL",
+      "Microservices",
+      "Node.js",
+      "Docker",
+      "Express"
+    ],
+    "current_role": "Backend Engineer",
+    "current_company": "Shopify",
+    "past_companies": [
+      "Swiggy",
+      "Atlassian",
+      "Netflix"
+    ],
+    "domains": [
+      "e-commerce",
+      "saas",
+      "media"
+    ],
+    "education": "BITS Pilani",
+    "summary": "Backend developer with 2 years of experience in Node.js/TypeScript. Built APIs powering products with millions of users.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0007",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0007",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0008",
+    "name": "Mia Tanaka",
+    "headline": "Backend Engineer at Stripe",
+    "location": "Hyderabad, India",
+    "years_experience": 3,
+    "skills": [
+      "Docker",
+      "Express",
+      "Microservices",
+      "Node.js",
+      "PostgreSQL",
+      "Kafka"
+    ],
+    "current_role": "Backend Engineer",
+    "current_company": "Stripe",
+    "past_companies": [
+      "Swiggy",
+      "Notion"
+    ],
+    "domains": [
+      "e-commerce"
+    ],
+    "education": "IIT Madras",
+    "summary": "Backend developer with 3 years of experience in Node.js/TypeScript. Built APIs powering products with millions of users.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0008",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0008",
+    "open_to_opportunities": false,
+    "desired_salary": "\u20b960-80 LPA",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0009",
+    "name": "Arnav Joshi",
+    "headline": "Senior Frontend Engineer at Groww",
+    "location": "Remote (India)",
+    "years_experience": 9,
+    "skills": [
+      "Next.js",
+      "Storybook",
+      "Vite",
+      "Jest",
+      "Performance Optimization",
+      "Tailwind CSS"
+    ],
+    "current_role": "Senior Frontend Engineer",
+    "current_company": "Groww",
+    "past_companies": [
+      "Zoho",
+      "Netflix",
+      "Microsoft"
+    ],
+    "domains": [
+      "media",
+      "e-commerce",
+      "healthcare"
+    ],
+    "education": "University of Toronto",
+    "summary": "Frontend specialist with 9 years crafting performant React applications. Passionate about DX and design systems.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0009",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0009",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0010",
+    "name": "Aisha Singh",
+    "headline": "Senior Frontend Engineer at Google",
+    "location": "Mumbai, India",
+    "years_experience": 5,
+    "skills": [
+      "Redux",
+      "TypeScript",
+      "GraphQL",
+      "React",
+      "Jest",
+      "Performance Optimization"
+    ],
+    "current_role": "Senior Frontend Engineer",
+    "current_company": "Google",
+    "past_companies": [
+      "Stripe",
+      "Zomato",
+      "Paytm"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "Carnegie Mellon",
+    "summary": "Frontend specialist with 5 years crafting performant React applications. Passionate about DX and design systems.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0010",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0010",
+    "open_to_opportunities": false,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0011",
+    "name": "Isabella Park",
+    "headline": "Senior Frontend Engineer at Microsoft",
+    "location": "Berlin, Germany",
+    "years_experience": 10,
+    "skills": [
+      "Redux",
+      "Jest",
+      "Next.js",
+      "Cypress",
+      "Vite",
+      "Performance Optimization",
+      "Webpack",
+      "Accessibility"
+    ],
+    "current_role": "Senior Frontend Engineer",
+    "current_company": "Microsoft",
+    "past_companies": [
+      "Swiggy",
+      "InMobi"
+    ],
+    "domains": [
+      "e-commerce",
+      "ai"
+    ],
+    "education": "IIT Delhi",
+    "summary": "Frontend specialist with 10 years crafting performant React applications. Passionate about DX and design systems.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0011",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0011",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0012",
+    "name": "Emma Khan",
+    "headline": "Senior Frontend Engineer at Netflix",
+    "location": "Mumbai, India",
+    "years_experience": 5,
+    "skills": [
+      "Accessibility",
+      "GraphQL",
+      "TypeScript",
+      "Redux",
+      "Cypress",
+      "Jest",
+      "Tailwind CSS",
+      "Vite"
+    ],
+    "current_role": "Senior Frontend Engineer",
+    "current_company": "Netflix",
+    "past_companies": [
+      "Amazon"
+    ],
+    "domains": [
+      "saas",
+      "media"
+    ],
+    "education": "BITS Pilani",
+    "summary": "Frontend specialist with 5 years crafting performant React applications. Passionate about DX and design systems.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0012",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0012",
+    "open_to_opportunities": false,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0013",
+    "name": "Aarav Hernandez",
+    "headline": "Frontend Developer at Amazon",
+    "location": "Amsterdam, Netherlands",
+    "years_experience": 1,
+    "skills": [
+      "HTML",
+      "Redux",
+      "REST APIs",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "current_role": "Frontend Developer",
+    "current_company": "Amazon",
+    "past_companies": [
+      "Uber"
+    ],
+    "domains": [
+      "saas",
+      "edtech"
+    ],
+    "education": "Delhi University",
+    "summary": "Frontend developer with 1 years building responsive web apps with React. Strong eye for UI detail.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0013",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0013",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0014",
+    "name": "Anjali Brown",
+    "headline": "Frontend Developer at Salesforce",
+    "location": "Mumbai, India",
+    "years_experience": 1,
+    "skills": [
+      "Git",
+      "React",
+      "Vue.js",
+      "Webpack",
+      "Redux",
+      "Tailwind CSS",
+      "CSS",
+      "HTML",
+      "REST APIs"
+    ],
+    "current_role": "Frontend Developer",
+    "current_company": "Salesforce",
+    "past_companies": [
+      "Zomato"
+    ],
+    "domains": [
+      "e-commerce",
+      "saas",
+      "edtech"
+    ],
+    "education": "BITS Pilani",
+    "summary": "Frontend developer with 1 years building responsive web apps with React. Strong eye for UI detail.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0014",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0014",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0015",
+    "name": "Olivia Khan",
+    "headline": "Frontend Developer at InMobi",
+    "location": "Mumbai, India",
+    "years_experience": 1,
+    "skills": [
+      "JavaScript",
+      "Redux",
+      "Vue.js",
+      "HTML",
+      "Webpack",
+      "Git",
+      "REST APIs",
+      "CSS",
+      "Tailwind CSS"
+    ],
+    "current_role": "Frontend Developer",
+    "current_company": "InMobi",
+    "past_companies": [
+      "Postman"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "National University of Singapore",
+    "summary": "Frontend developer with 1 years building responsive web apps with React. Strong eye for UI detail.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0015",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0015",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0016",
+    "name": "Carlos Tanaka",
+    "headline": "Frontend Developer at Spotify",
+    "location": "Toronto, Canada",
+    "years_experience": 1,
+    "skills": [
+      "CSS",
+      "Git",
+      "Tailwind CSS",
+      "JavaScript",
+      "HTML",
+      "React",
+      "Redux",
+      "Webpack",
+      "Vue.js"
+    ],
+    "current_role": "Frontend Developer",
+    "current_company": "Spotify",
+    "past_companies": [
+      "Cred"
+    ],
+    "domains": [
+      "edtech"
+    ],
+    "education": "UC Berkeley",
+    "summary": "Frontend developer with 1 years building responsive web apps with React. Strong eye for UI detail.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0016",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0016",
+    "open_to_opportunities": true,
+    "desired_salary": null,
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0017",
+    "name": "Aisha Chen",
+    "headline": "Full Stack Engineer at Microsoft",
+    "location": "New York, NY",
+    "years_experience": 5,
+    "skills": [
+      "Node.js",
+      "REST APIs",
+      "TypeScript",
+      "PostgreSQL",
+      "GraphQL"
+    ],
+    "current_role": "Full Stack Engineer",
+    "current_company": "Microsoft",
+    "past_companies": [
+      "Paytm",
+      "Shopify",
+      "InMobi"
+    ],
+    "domains": [
+      "healthcare"
+    ],
+    "education": "IIT Madras",
+    "summary": "Full-stack engineer with 5 years across React + Node ecosystem. Comfortable owning features end-to-end.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0017",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0017",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0018",
+    "name": "Sofia Sharma",
+    "headline": "Full Stack Engineer at PayPal",
+    "location": "Mumbai, India",
+    "years_experience": 3,
+    "skills": [
+      "MongoDB",
+      "TypeScript",
+      "PostgreSQL",
+      "GraphQL",
+      "Tailwind CSS"
+    ],
+    "current_role": "Full Stack Engineer",
+    "current_company": "PayPal",
+    "past_companies": [
+      "Paytm",
+      "Netflix"
+    ],
+    "domains": [
+      "saas",
+      "e-commerce",
+      "media"
+    ],
+    "education": "IIT Delhi",
+    "summary": "Full-stack engineer with 3 years across React + Node ecosystem. Comfortable owning features end-to-end.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0018",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0018",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0019",
+    "name": "Sanjay Verma",
+    "headline": "Full Stack Engineer at Google",
+    "location": "Pune, India",
+    "years_experience": 4,
+    "skills": [
+      "TypeScript",
+      "React",
+      "PostgreSQL",
+      "MongoDB",
+      "AWS",
+      "GraphQL",
+      "Tailwind CSS",
+      "Node.js"
+    ],
+    "current_role": "Full Stack Engineer",
+    "current_company": "Google",
+    "past_companies": [
+      "InMobi",
+      "Swiggy",
+      "Airbnb"
+    ],
+    "domains": [
+      "healthcare"
+    ],
+    "education": "IIIT Hyderabad",
+    "summary": "Full-stack engineer with 4 years across React + Node ecosystem. Comfortable owning features end-to-end.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0019",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0019",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0020",
+    "name": "Reyansh Hernandez",
+    "headline": "Full Stack Engineer at Unacademy",
+    "location": "Singapore",
+    "years_experience": 6,
+    "skills": [
+      "TypeScript",
+      "MongoDB",
+      "AWS",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "current_role": "Full Stack Engineer",
+    "current_company": "Unacademy",
+    "past_companies": [
+      "Paytm"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "VIT Vellore",
+    "summary": "Full-stack engineer with 6 years across React + Node ecosystem. Comfortable owning features end-to-end.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0020",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0020",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b960-80 LPA",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0021",
+    "name": "Emma Park",
+    "headline": "Machine Learning Engineer at Groww",
+    "location": "Sydney, Australia",
+    "years_experience": 5,
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "FastAPI",
+      "Airflow",
+      "MLflow",
+      "NumPy"
+    ],
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Groww",
+    "past_companies": [
+      "Zomato",
+      "BYJU's"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": "BITS Pilani",
+    "summary": "ML engineer with 5 years deploying production ML systems. Experience across NLP, recsys, and CV domains.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0021",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0021",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0022",
+    "name": "Diego Jones",
+    "headline": "Machine Learning Engineer at Salesforce",
+    "location": "Hyderabad, India",
+    "years_experience": 7,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "MLflow",
+      "NumPy",
+      "SQL",
+      "FastAPI"
+    ],
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Salesforce",
+    "past_companies": [
+      "Swiggy",
+      "Uber",
+      "Zerodha"
+    ],
+    "domains": [
+      "ai",
+      "healthcare",
+      "fintech"
+    ],
+    "education": "Anna University",
+    "summary": "ML engineer with 7 years deploying production ML systems. Experience across NLP, recsys, and CV domains.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0022",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0022",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0023",
+    "name": "Ava Liu",
+    "headline": "Machine Learning Engineer at InMobi",
+    "location": "Remote (India)",
+    "years_experience": 5,
+    "skills": [
+      "PyTorch",
+      "FastAPI",
+      "NumPy",
+      "Docker",
+      "SQL",
+      "Airflow",
+      "Pandas",
+      "Kubernetes"
+    ],
+    "current_role": "Machine Learning Engineer",
+    "current_company": "InMobi",
+    "past_companies": [
+      "Netflix",
+      "Shopify"
+    ],
+    "domains": [
+      "healthcare",
+      "ai"
+    ],
+    "education": "ETH Zurich",
+    "summary": "ML engineer with 5 years deploying production ML systems. Experience across NLP, recsys, and CV domains.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0023",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0023",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0024",
+    "name": "James Thomas",
+    "headline": "Machine Learning Engineer at Zoho",
+    "location": "Toronto, Canada",
+    "years_experience": 7,
+    "skills": [
+      "MLflow",
+      "AWS SageMaker",
+      "Python",
+      "Pandas",
+      "FastAPI",
+      "scikit-learn",
+      "Airflow"
+    ],
+    "current_role": "Machine Learning Engineer",
+    "current_company": "Zoho",
+    "past_companies": [
+      "Postman",
+      "Shopify",
+      "Spotify"
+    ],
+    "domains": [
+      "healthcare",
+      "ai"
+    ],
+    "education": "IIIT Hyderabad",
+    "summary": "ML engineer with 7 years deploying production ML systems. Experience across NLP, recsys, and CV domains.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0024",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0024",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0025",
+    "name": "Valentina Gupta",
+    "headline": "Senior ML Engineer at Google",
+    "location": "Berlin, Germany",
+    "years_experience": 11,
+    "skills": [
+      "AWS",
+      "LangChain",
+      "PyTorch",
+      "LLMs",
+      "RAG",
+      "Hugging Face",
+      "Vector Databases",
+      "GPU Optimization",
+      "Distributed Training",
+      "Python"
+    ],
+    "current_role": "Senior ML Engineer",
+    "current_company": "Google",
+    "past_companies": [
+      "Adobe"
+    ],
+    "domains": [
+      "fintech",
+      "media",
+      "e-commerce"
+    ],
+    "education": "ETH Zurich",
+    "summary": "Senior ML engineer with 11 years. Recently focused on LLM applications and RAG systems at scale.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0025",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0025",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0026",
+    "name": "Fatima Kapoor",
+    "headline": "Senior ML Engineer at Flipkart",
+    "location": "Austin, TX",
+    "years_experience": 11,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Vector Databases",
+      "LLMs",
+      "Transformers",
+      "MLOps",
+      "Hugging Face",
+      "RAG",
+      "Distributed Training",
+      "GPU Optimization"
+    ],
+    "current_role": "Senior ML Engineer",
+    "current_company": "Flipkart",
+    "past_companies": [
+      "Unacademy",
+      "Spotify"
+    ],
+    "domains": [
+      "saas",
+      "media"
+    ],
+    "education": "Anna University",
+    "summary": "Senior ML engineer with 11 years. Recently focused on LLM applications and RAG systems at scale.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0026",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0026",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0027",
+    "name": "Tara Wang",
+    "headline": "Senior ML Engineer at Paytm",
+    "location": "Austin, TX",
+    "years_experience": 7,
+    "skills": [
+      "MLOps",
+      "Hugging Face",
+      "RAG",
+      "LLMs",
+      "GPU Optimization",
+      "Distributed Training",
+      "LangChain",
+      "PyTorch",
+      "Transformers",
+      "AWS"
+    ],
+    "current_role": "Senior ML Engineer",
+    "current_company": "Paytm",
+    "past_companies": [
+      "Atlassian"
+    ],
+    "domains": [
+      "fintech",
+      "saas",
+      "e-commerce"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Senior ML engineer with 7 years. Recently focused on LLM applications and RAG systems at scale.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0027",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0027",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0028",
+    "name": "Logan Hernandez",
+    "headline": "Senior ML Engineer at Razorpay",
+    "location": "Bangalore, India",
+    "years_experience": 11,
+    "skills": [
+      "PyTorch",
+      "Vector Databases",
+      "Distributed Training",
+      "LangChain",
+      "Kubernetes",
+      "MLOps"
+    ],
+    "current_role": "Senior ML Engineer",
+    "current_company": "Razorpay",
+    "past_companies": [
+      "Microsoft",
+      "Cred"
+    ],
+    "domains": [
+      "saas",
+      "edtech",
+      "ai"
+    ],
+    "education": "IIT Bombay",
+    "summary": "Senior ML engineer with 11 years. Recently focused on LLM applications and RAG systems at scale.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0028",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0028",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0029",
+    "name": "Ava Williams",
+    "headline": "Data Scientist at Shopify",
+    "location": "Pune, India",
+    "years_experience": 5,
+    "skills": [
+      "R",
+      "Jupyter",
+      "scikit-learn",
+      "Looker",
+      "SQL",
+      "Pandas",
+      "Causal Inference",
+      "Statistics",
+      "Python"
+    ],
+    "current_role": "Data Scientist",
+    "current_company": "Shopify",
+    "past_companies": [
+      "InMobi",
+      "Unacademy"
+    ],
+    "domains": [
+      "healthcare",
+      "media",
+      "fintech"
+    ],
+    "education": "ETH Zurich",
+    "summary": "Data scientist with 5 years driving product decisions through experimentation and predictive modeling.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0029",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0029",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0030",
+    "name": "Mason Wang",
+    "headline": "Data Scientist at Shopify",
+    "location": "New York, NY",
+    "years_experience": 2,
+    "skills": [
+      "Tableau",
+      "Pandas",
+      "Looker",
+      "Jupyter",
+      "Python",
+      "R",
+      "scikit-learn",
+      "A/B Testing",
+      "Causal Inference",
+      "SQL"
+    ],
+    "current_role": "Data Scientist",
+    "current_company": "Shopify",
+    "past_companies": [
+      "BYJU's",
+      "Zerodha"
+    ],
+    "domains": [
+      "healthcare"
+    ],
+    "education": "Delhi University",
+    "summary": "Data scientist with 2 years driving product decisions through experimentation and predictive modeling.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0030",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0030",
+    "open_to_opportunities": false,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0031",
+    "name": "Tara Smith",
+    "headline": "Data Scientist at Zoho",
+    "location": "Delhi NCR, India",
+    "years_experience": 4,
+    "skills": [
+      "Causal Inference",
+      "SQL",
+      "Python",
+      "R",
+      "Jupyter",
+      "Tableau"
+    ],
+    "current_role": "Data Scientist",
+    "current_company": "Zoho",
+    "past_companies": [
+      "Flipkart"
+    ],
+    "domains": [
+      "healthcare",
+      "saas",
+      "edtech"
+    ],
+    "education": "MIT",
+    "summary": "Data scientist with 4 years driving product decisions through experimentation and predictive modeling.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0031",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0031",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0032",
+    "name": "Nikhil Davis",
+    "headline": "Data Scientist at Freshworks",
+    "location": "Seattle, WA",
+    "years_experience": 6,
+    "skills": [
+      "SQL",
+      "Pandas",
+      "Statistics",
+      "Causal Inference",
+      "R",
+      "Python",
+      "Jupyter",
+      "scikit-learn",
+      "Looker",
+      "A/B Testing"
+    ],
+    "current_role": "Data Scientist",
+    "current_company": "Freshworks",
+    "past_companies": [
+      "Paytm"
+    ],
+    "domains": [
+      "fintech",
+      "media",
+      "saas"
+    ],
+    "education": "IIT Delhi",
+    "summary": "Data scientist with 6 years driving product decisions through experimentation and predictive modeling.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0032",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0032",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b960-80 LPA",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0033",
+    "name": "Kavya Kapoor",
+    "headline": "DevOps Engineer at Paytm",
+    "location": "New York, NY",
+    "years_experience": 3,
+    "skills": [
+      "Linux",
+      "CI/CD",
+      "Kubernetes",
+      "Jenkins",
+      "GitHub Actions",
+      "Docker",
+      "Helm",
+      "AWS",
+      "Python"
+    ],
+    "current_role": "DevOps Engineer",
+    "current_company": "Paytm",
+    "past_companies": [
+      "Flipkart",
+      "Netflix"
+    ],
+    "domains": [
+      "e-commerce",
+      "media",
+      "edtech"
+    ],
+    "education": "National University of Singapore",
+    "summary": "DevOps/SRE with 3 years of cloud infrastructure experience. Built reliable CI/CD pipelines and observability stacks.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0033",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0033",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0034",
+    "name": "Priya Rao",
+    "headline": "DevOps Engineer at Zoho",
+    "location": "Chennai, India",
+    "years_experience": 5,
+    "skills": [
+      "Helm",
+      "Terraform",
+      "Docker",
+      "Ansible",
+      "GitHub Actions",
+      "Python",
+      "Grafana"
+    ],
+    "current_role": "DevOps Engineer",
+    "current_company": "Zoho",
+    "past_companies": [
+      "InMobi",
+      "Uber",
+      "Shopify"
+    ],
+    "domains": [
+      "saas",
+      "e-commerce"
+    ],
+    "education": "University of Toronto",
+    "summary": "DevOps/SRE with 5 years of cloud infrastructure experience. Built reliable CI/CD pipelines and observability stacks.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0034",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0034",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0035",
+    "name": "Omar Rao",
+    "headline": "DevOps Engineer at BYJU's",
+    "location": "Bangalore, India",
+    "years_experience": 7,
+    "skills": [
+      "Ansible",
+      "Prometheus",
+      "Kubernetes",
+      "Python",
+      "Terraform",
+      "Docker",
+      "Grafana",
+      "CI/CD",
+      "GitHub Actions",
+      "Jenkins"
+    ],
+    "current_role": "DevOps Engineer",
+    "current_company": "BYJU's",
+    "past_companies": [
+      "Google",
+      "Paytm",
+      "Adobe"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "UC Berkeley",
+    "summary": "DevOps/SRE with 7 years of cloud infrastructure experience. Built reliable CI/CD pipelines and observability stacks.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0035",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0035",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0036",
+    "name": "Olivia Chen",
+    "headline": "DevOps Engineer at Paytm",
+    "location": "Delhi NCR, India",
+    "years_experience": 5,
+    "skills": [
+      "Grafana",
+      "CI/CD",
+      "GitHub Actions",
+      "Prometheus",
+      "Linux",
+      "Python",
+      "Jenkins",
+      "Helm",
+      "Ansible",
+      "AWS"
+    ],
+    "current_role": "DevOps Engineer",
+    "current_company": "Paytm",
+    "past_companies": [
+      "Spotify",
+      "Meta"
+    ],
+    "domains": [
+      "fintech",
+      "e-commerce",
+      "healthcare"
+    ],
+    "education": "BITS Pilani",
+    "summary": "DevOps/SRE with 5 years of cloud infrastructure experience. Built reliable CI/CD pipelines and observability stacks.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0036",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0036",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0037",
+    "name": "Olivia Sharma",
+    "headline": "Mobile Engineer (iOS) at Airbnb",
+    "location": "Sydney, Australia",
+    "years_experience": 3,
+    "skills": [
+      "Firebase",
+      "Core Data",
+      "Xcode",
+      "Swift",
+      "SwiftUI",
+      "UIKit"
+    ],
+    "current_role": "Mobile Engineer (iOS)",
+    "current_company": "Airbnb",
+    "past_companies": [
+      "Amazon"
+    ],
+    "domains": [
+      "media"
+    ],
+    "education": "MIT",
+    "summary": "iOS engineer with 3 years shipping consumer apps. SwiftUI advocate.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0037",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0037",
+    "open_to_opportunities": false,
+    "desired_salary": null,
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0038",
+    "name": "Manish Ahmed",
+    "headline": "Mobile Engineer (iOS) at Amazon",
+    "location": "Mumbai, India",
+    "years_experience": 4,
+    "skills": [
+      "UIKit",
+      "Firebase",
+      "SwiftUI",
+      "REST APIs",
+      "Swift",
+      "Core Data",
+      "App Store",
+      "Xcode",
+      "Objective-C",
+      "Combine"
+    ],
+    "current_role": "Mobile Engineer (iOS)",
+    "current_company": "Amazon",
+    "past_companies": [
+      "Razorpay",
+      "Meta"
+    ],
+    "domains": [
+      "e-commerce",
+      "edtech"
+    ],
+    "education": "IIT Madras",
+    "summary": "iOS engineer with 4 years shipping consumer apps. SwiftUI advocate.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0038",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0038",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0039",
+    "name": "Sanjay Kapoor",
+    "headline": "Mobile Engineer (iOS) at Zoho",
+    "location": "Amsterdam, Netherlands",
+    "years_experience": 3,
+    "skills": [
+      "App Store",
+      "Core Data",
+      "SwiftUI",
+      "Firebase",
+      "Swift",
+      "Xcode"
+    ],
+    "current_role": "Mobile Engineer (iOS)",
+    "current_company": "Zoho",
+    "past_companies": [
+      "Unacademy",
+      "Google"
+    ],
+    "domains": [
+      "fintech",
+      "healthcare"
+    ],
+    "education": "TU Munich",
+    "summary": "iOS engineer with 3 years shipping consumer apps. SwiftUI advocate.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0039",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0039",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0040",
+    "name": "James Banerjee",
+    "headline": "Mobile Engineer (iOS) at Stripe",
+    "location": "Seattle, WA",
+    "years_experience": 6,
+    "skills": [
+      "SwiftUI",
+      "Objective-C",
+      "Xcode",
+      "UIKit",
+      "Combine",
+      "Swift",
+      "App Store",
+      "Core Data",
+      "REST APIs",
+      "Firebase"
+    ],
+    "current_role": "Mobile Engineer (iOS)",
+    "current_company": "Stripe",
+    "past_companies": [
+      "Netflix"
+    ],
+    "domains": [
+      "fintech"
+    ],
+    "education": "Stanford University",
+    "summary": "iOS engineer with 6 years shipping consumer apps. SwiftUI advocate.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0040",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0040",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0041",
+    "name": "Ishita Gupta",
+    "headline": "Mobile Engineer (Android) at Flipkart",
+    "location": "Chennai, India",
+    "years_experience": 2,
+    "skills": [
+      "Android SDK",
+      "MVVM",
+      "Room",
+      "Coroutines",
+      "Retrofit",
+      "Java",
+      "Firebase",
+      "Kotlin",
+      "Jetpack Compose"
+    ],
+    "current_role": "Mobile Engineer (Android)",
+    "current_company": "Flipkart",
+    "past_companies": [
+      "Notion",
+      "Meta",
+      "Cred"
+    ],
+    "domains": [
+      "e-commerce",
+      "media"
+    ],
+    "education": "UC Berkeley",
+    "summary": "Android developer with 2 years of native app experience. Currently building with Jetpack Compose.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0041",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0041",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b960-80 LPA",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0042",
+    "name": "Hassan Shah",
+    "headline": "Mobile Engineer (Android) at Meta",
+    "location": "Bangalore, India",
+    "years_experience": 7,
+    "skills": [
+      "MVVM",
+      "Retrofit",
+      "Android SDK",
+      "Kotlin",
+      "Firebase",
+      "Coroutines",
+      "Java",
+      "Jetpack Compose"
+    ],
+    "current_role": "Mobile Engineer (Android)",
+    "current_company": "Meta",
+    "past_companies": [
+      "Stripe",
+      "Zomato",
+      "Google"
+    ],
+    "domains": [
+      "media",
+      "e-commerce",
+      "edtech"
+    ],
+    "education": "IIT Delhi",
+    "summary": "Android developer with 7 years of native app experience. Currently building with Jetpack Compose.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0042",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0042",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0043",
+    "name": "Anjali Williams",
+    "headline": "Mobile Engineer (Android) at Shopify",
+    "location": "Berlin, Germany",
+    "years_experience": 6,
+    "skills": [
+      "Retrofit",
+      "MVVM",
+      "Java",
+      "Firebase",
+      "Android SDK",
+      "Coroutines",
+      "Kotlin",
+      "Room",
+      "Jetpack Compose"
+    ],
+    "current_role": "Mobile Engineer (Android)",
+    "current_company": "Shopify",
+    "past_companies": [
+      "InMobi",
+      "Swiggy"
+    ],
+    "domains": [
+      "fintech",
+      "edtech",
+      "healthcare"
+    ],
+    "education": "ETH Zurich",
+    "summary": "Android developer with 6 years of native app experience. Currently building with Jetpack Compose.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0043",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0043",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0044",
+    "name": "Carlos Khan",
+    "headline": "Mobile Engineer (Android) at Cred",
+    "location": "Hyderabad, India",
+    "years_experience": 5,
+    "skills": [
+      "Coroutines",
+      "MVVM",
+      "Jetpack Compose",
+      "Kotlin",
+      "Android SDK"
+    ],
+    "current_role": "Mobile Engineer (Android)",
+    "current_company": "Cred",
+    "past_companies": [
+      "Stripe",
+      "InMobi",
+      "Groww"
+    ],
+    "domains": [
+      "fintech"
+    ],
+    "education": "Anna University",
+    "summary": "Android developer with 5 years of native app experience. Currently building with Jetpack Compose.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0044",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0044",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0045",
+    "name": "Mateo Davis",
+    "headline": "Product Designer at Stripe",
+    "location": "Chennai, India",
+    "years_experience": 8,
+    "skills": [
+      "Figma",
+      "Sketch",
+      "User Research",
+      "Design Systems",
+      "Accessibility",
+      "Prototyping",
+      "UX Writing",
+      "Adobe Creative Suite"
+    ],
+    "current_role": "Product Designer",
+    "current_company": "Stripe",
+    "past_companies": [
+      "Postman"
+    ],
+    "domains": [
+      "fintech",
+      "media"
+    ],
+    "education": "IIT Bombay",
+    "summary": "Product designer with 8 years across B2B and consumer products. Strong systems thinker.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0045",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0045",
+    "open_to_opportunities": true,
+    "desired_salary": null,
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0046",
+    "name": "Logan Ahmed",
+    "headline": "Product Designer at Atlassian",
+    "location": "San Francisco, CA",
+    "years_experience": 9,
+    "skills": [
+      "Adobe Creative Suite",
+      "Figma",
+      "UX Writing",
+      "Sketch",
+      "Prototyping"
+    ],
+    "current_role": "Product Designer",
+    "current_company": "Atlassian",
+    "past_companies": [
+      "Salesforce",
+      "Paytm",
+      "Meta"
+    ],
+    "domains": [
+      "e-commerce",
+      "media"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Product designer with 9 years across B2B and consumer products. Strong systems thinker.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0046",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0046",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0047",
+    "name": "Lucia Desai",
+    "headline": "Product Designer at PhonePe",
+    "location": "Singapore",
+    "years_experience": 8,
+    "skills": [
+      "Sketch",
+      "User Research",
+      "Prototyping",
+      "Accessibility",
+      "Design Systems",
+      "Figma"
+    ],
+    "current_role": "Product Designer",
+    "current_company": "PhonePe",
+    "past_companies": [
+      "Atlassian",
+      "Cred"
+    ],
+    "domains": [
+      "fintech"
+    ],
+    "education": "National University of Singapore",
+    "summary": "Product designer with 8 years across B2B and consumer products. Strong systems thinker.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0047",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0047",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0048",
+    "name": "Wei Hernandez",
+    "headline": "Product Designer at Razorpay",
+    "location": "Pune, India",
+    "years_experience": 7,
+    "skills": [
+      "Accessibility",
+      "Prototyping",
+      "User Research",
+      "Sketch",
+      "Design Systems",
+      "UX Writing",
+      "Adobe Creative Suite",
+      "Figma"
+    ],
+    "current_role": "Product Designer",
+    "current_company": "Razorpay",
+    "past_companies": [
+      "Shopify",
+      "PhonePe"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Product designer with 7 years across B2B and consumer products. Strong systems thinker.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0048",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0048",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0049",
+    "name": "Liam Kim",
+    "headline": "Engineering Manager at Adobe",
+    "location": "London, UK",
+    "years_experience": 9,
+    "skills": [
+      "Hiring",
+      "Stakeholder Management",
+      "Leadership",
+      "Python",
+      "Roadmapping",
+      "System Design",
+      "Mentorship",
+      "AWS"
+    ],
+    "current_role": "Engineering Manager",
+    "current_company": "Adobe",
+    "past_companies": [
+      "Unacademy"
+    ],
+    "domains": [
+      "e-commerce",
+      "fintech",
+      "healthcare"
+    ],
+    "education": "ETH Zurich",
+    "summary": "Engineering manager with 9 years of experience, leading teams of 5-15 engineers across multiple product areas.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0049",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0049",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0050",
+    "name": "Rahul Nair",
+    "headline": "Engineering Manager at BYJU's",
+    "location": "Chennai, India",
+    "years_experience": 8,
+    "skills": [
+      "Hiring",
+      "System Design",
+      "Python",
+      "AWS",
+      "Mentorship",
+      "Roadmapping",
+      "Agile",
+      "Leadership",
+      "Stakeholder Management"
+    ],
+    "current_role": "Engineering Manager",
+    "current_company": "BYJU's",
+    "past_companies": [
+      "Postman"
+    ],
+    "domains": [
+      "fintech",
+      "healthcare",
+      "saas"
+    ],
+    "education": "IIT Delhi",
+    "summary": "Engineering manager with 8 years of experience, leading teams of 5-15 engineers across multiple product areas.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0050",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0050",
+    "open_to_opportunities": true,
+    "desired_salary": null,
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0051",
+    "name": "Manish Hernandez",
+    "headline": "Engineering Manager at Zomato",
+    "location": "San Francisco, CA",
+    "years_experience": 13,
+    "skills": [
+      "AWS",
+      "Mentorship",
+      "Hiring",
+      "Agile",
+      "System Design",
+      "Roadmapping",
+      "Leadership"
+    ],
+    "current_role": "Engineering Manager",
+    "current_company": "Zomato",
+    "past_companies": [
+      "Zoho"
+    ],
+    "domains": [
+      "e-commerce",
+      "media"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Engineering manager with 13 years of experience, leading teams of 5-15 engineers across multiple product areas.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0051",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0051",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 30
+  },
+  {
+    "id": "cand_0052",
+    "name": "Aisha Anderson",
+    "headline": "Engineering Manager at Airbnb",
+    "location": "New York, NY",
+    "years_experience": 15,
+    "skills": [
+      "Leadership",
+      "Stakeholder Management",
+      "Mentorship",
+      "Python",
+      "Agile",
+      "Hiring",
+      "Roadmapping"
+    ],
+    "current_role": "Engineering Manager",
+    "current_company": "Airbnb",
+    "past_companies": [
+      "Freshworks",
+      "Atlassian"
+    ],
+    "domains": [
+      "e-commerce",
+      "healthcare"
+    ],
+    "education": "VIT Vellore",
+    "summary": "Engineering manager with 15 years of experience, leading teams of 5-15 engineers across multiple product areas.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0052",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0052",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0053",
+    "name": "Ava Wang",
+    "headline": "Junior Software Engineer at Cred",
+    "location": "Dubai, UAE",
+    "years_experience": 0,
+    "skills": [
+      "HTML",
+      "CSS",
+      "Git",
+      "React",
+      "SQL",
+      "Python"
+    ],
+    "current_role": "Junior Software Engineer",
+    "current_company": "Cred",
+    "past_companies": [
+      "InMobi"
+    ],
+    "domains": [
+      "saas",
+      "ai",
+      "fintech"
+    ],
+    "education": "Delhi University",
+    "summary": "Recent CS grad with 0 years of internship experience. Eager to learn and contribute to a strong engineering team.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0053",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0053",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b940-55 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0054",
+    "name": "James Kumar",
+    "headline": "Junior Software Engineer at Postman",
+    "location": "Remote (US)",
+    "years_experience": 2,
+    "skills": [
+      "Python",
+      "React",
+      "SQL",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "CSS"
+    ],
+    "current_role": "Junior Software Engineer",
+    "current_company": "Postman",
+    "past_companies": [
+      "Razorpay",
+      "Atlassian",
+      "Unacademy"
+    ],
+    "domains": [
+      "e-commerce",
+      "saas",
+      "fintech"
+    ],
+    "education": "UC Berkeley",
+    "summary": "Recent CS grad with 2 years of internship experience. Eager to learn and contribute to a strong engineering team.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0054",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0054",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b960-80 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0055",
+    "name": "Manish Kim",
+    "headline": "Junior Software Engineer at Unacademy",
+    "location": "Amsterdam, Netherlands",
+    "years_experience": 0,
+    "skills": [
+      "SQL",
+      "CSS",
+      "Git",
+      "React",
+      "JavaScript",
+      "Python"
+    ],
+    "current_role": "Junior Software Engineer",
+    "current_company": "Unacademy",
+    "past_companies": [
+      "Atlassian",
+      "PhonePe"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "NIT Trichy",
+    "summary": "Recent CS grad with 0 years of internship experience. Eager to learn and contribute to a strong engineering team.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0055",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0055",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 60
+  },
+  {
+    "id": "cand_0056",
+    "name": "Lucia Hernandez",
+    "headline": "Junior Software Engineer at InMobi",
+    "location": "Remote (US)",
+    "years_experience": 2,
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "SQL",
+      "Git",
+      "React",
+      "CSS",
+      "Python"
+    ],
+    "current_role": "Junior Software Engineer",
+    "current_company": "InMobi",
+    "past_companies": [
+      "PhonePe",
+      "Meta"
+    ],
+    "domains": [
+      "e-commerce"
+    ],
+    "education": "Stanford University",
+    "summary": "Recent CS grad with 2 years of internship experience. Eager to learn and contribute to a strong engineering team.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0056",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0056",
+    "open_to_opportunities": true,
+    "desired_salary": "$120k-150k",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0057",
+    "name": "Saanvi Nair",
+    "headline": "Site Reliability Engineer at Atlassian",
+    "location": "Sydney, Australia",
+    "years_experience": 6,
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "Python",
+      "GCP",
+      "Prometheus",
+      "Observability",
+      "Linux",
+      "Incident Response",
+      "Go"
+    ],
+    "current_role": "Site Reliability Engineer",
+    "current_company": "Atlassian",
+    "past_companies": [
+      "Adobe"
+    ],
+    "domains": [
+      "fintech"
+    ],
+    "education": "ETH Zurich",
+    "summary": "SRE with 6 years keeping high-traffic systems online. Strong incident response background.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0057",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0057",
+    "open_to_opportunities": true,
+    "desired_salary": "$150k-200k",
+    "notice_period_days": 90
+  },
+  {
+    "id": "cand_0058",
+    "name": "Anjali Rodriguez",
+    "headline": "Site Reliability Engineer at Microsoft",
+    "location": "Remote (US)",
+    "years_experience": 7,
+    "skills": [
+      "Terraform",
+      "Grafana",
+      "Kubernetes",
+      "Python",
+      "GCP",
+      "AWS",
+      "Observability",
+      "Linux",
+      "Incident Response"
+    ],
+    "current_role": "Site Reliability Engineer",
+    "current_company": "Microsoft",
+    "past_companies": [
+      "Spotify",
+      "Google"
+    ],
+    "domains": [
+      "fintech",
+      "ai",
+      "healthcare"
+    ],
+    "education": "IIT Delhi",
+    "summary": "SRE with 7 years keeping high-traffic systems online. Strong incident response background.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0058",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0058",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 0
+  },
+  {
+    "id": "cand_0059",
+    "name": "Sofia Garcia",
+    "headline": "Site Reliability Engineer at Microsoft",
+    "location": "San Francisco, CA",
+    "years_experience": 10,
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Linux",
+      "Go",
+      "Grafana",
+      "Terraform",
+      "Observability",
+      "GCP"
+    ],
+    "current_role": "Site Reliability Engineer",
+    "current_company": "Microsoft",
+    "past_companies": [
+      "Zomato",
+      "Cred",
+      "BYJU's"
+    ],
+    "domains": [
+      "fintech",
+      "e-commerce"
+    ],
+    "education": "IIT Bombay",
+    "summary": "SRE with 10 years keeping high-traffic systems online. Strong incident response background.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0059",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0059",
+    "open_to_opportunities": true,
+    "desired_salary": "\u20b925-35 LPA",
+    "notice_period_days": 15
+  },
+  {
+    "id": "cand_0060",
+    "name": "Diya Smith",
+    "headline": "Site Reliability Engineer at Shopify",
+    "location": "Toronto, Canada",
+    "years_experience": 8,
+    "skills": [
+      "Terraform",
+      "Kubernetes",
+      "Linux",
+      "Observability",
+      "Go",
+      "Python",
+      "Incident Response"
+    ],
+    "current_role": "Site Reliability Engineer",
+    "current_company": "Shopify",
+    "past_companies": [
+      "Stripe",
+      "Amazon",
+      "Meta"
+    ],
+    "domains": [
+      "saas"
+    ],
+    "education": "IIT Madras",
+    "summary": "SRE with 8 years keeping high-traffic systems online. Strong incident response background.",
+    "source": "synthetic",
+    "profile_url": "https://example.com/profiles/cand_0060",
+    "avatar_url": "https://i.pravatar.cc/150?u=cand_0060",
+    "open_to_opportunities": true,
+    "desired_salary": "$200k-280k",
+    "notice_period_days": 30
+  }
+]
