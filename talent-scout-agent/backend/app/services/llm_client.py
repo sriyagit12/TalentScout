@@ -1,6 +1,5 @@
 """
 Centralized LLM client — Groq edition.
-Drop-in replacement for the Anthropic version.
 All agents call through here unchanged.
 """
 import os

@@ -67,7 +67,6 @@ A ranked shortlist where **Combined Score = 0.6 × Match + 0.4 × Interest**, wi
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
-- An [Anthropic API key](https://console.anthropic.com/) (free credits available)
 - Optional: a [GitHub personal access token](https://github.com/settings/tokens) (no scopes needed; bumps rate limits 60→5000/hr)
 
 ### 1. Backend
@@ -78,8 +77,7 @@ python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
-cp .env.example .env
-# Edit .env and add your ANTHROPIC_API_KEY
+cp .env
 
 uvicorn app.main:app --reload --port 8000
 ```
@@ -118,7 +116,6 @@ Open `http://localhost:5173` in your browser.
 The backend is a stateless FastAPI app — deploy anywhere that runs Python.
 
 **Required env vars:**
-- `ANTHROPIC_API_KEY` (required)
 - `GITHUB_TOKEN` (optional but recommended)
 - `ALLOWED_ORIGINS` (comma-separated, set to your frontend URL)
 
@@ -198,7 +195,7 @@ talent-scout-agent/
 │   │   ├── routes/scout.py
 │   │   └── main.py
 │   ├── requirements.txt
-│   └── .env.example
+│   └── .env
 └── frontend/
     ├── src/
     │   ├── components/

@@ -12,15 +12,6 @@ fi
 source venv/bin/activate
 pip install -q -r requirements.txt
 
-if [ ! -f .env ]; then
-  cp .env.example .env
-  echo ""
-  echo "⚠️  Edit backend/.env and add your ANTHROPIC_API_KEY."
-  echo "   Get one at: https://console.anthropic.com/"
-  echo ""
-  exit 1
-fi
-
 # Start backend in background
 echo "==> Starting backend on :8000..."
 uvicorn app.main:app --port 8000 &
